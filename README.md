@@ -1,6 +1,6 @@
 # What is markdown?
 
-This is a demo to show the markdown formats.  Let's try a few different things.
+This is a demo to show the markdown formats.    Let's try a few different things.
 
 ## Number 1 Bold
 
