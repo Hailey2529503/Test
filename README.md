@@ -7,11 +7,11 @@ Let's try a few different things.
 
 This is a **BOLD** text.
 
-### Number 2 Italic
+## Number 2 Italic
 
 This is a *ITALIC* word.
 
-#### Number 3 blockquote
+## Number 3 blockquote
 
 This is to show how a blockquote looks like:
 > Hi I am a block.  
